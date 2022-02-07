@@ -59,7 +59,7 @@ a:hover {
   text-decoration: none;
   padding: 0.45rem;
   max-width: 140px;
-  /* display:block; */
+  display:block;
   background-color: rgb(216, 216, 216);
   color: black;
   margin: 1rem auto;
