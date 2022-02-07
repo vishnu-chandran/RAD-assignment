@@ -1,60 +1,69 @@
-body{
-    background-color: rgba(255, 255, 255, 0.842);
-}
-a:hover{
-    background-color: #e9ec20;
-}
-.title{
-    
-    text-align: center;
-    background-color:#0077B5;;
-    color:black;
-    padding: 1rem;
-    border-bottom-left-radius: 2rem;
-    border-bottom-right-radius: 2rem;}
-.profilepic{
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 15px;
-    text-align: center;
-    
-}
-.ow{
-    background-color:#0077B5;
-    color: rgb(14, 12, 12);
-    padding:2rem;
-    border-radius: 2rem;
-    text-align:auto;
-  }
+body {
   
-  .w{
-    background-color:white;
-    color: black;
-    padding:2rem;
-    border-radius: 2rem;
-    text-align:auto;
-  }
-  .link{
-      text-decoration: none;
-      padding: 0.5rem;
-    max-width: 140px;
-    display:block;
-    background-color: rgb(216, 216, 216);
-    color:black;
-    margin: 1rem auto;
-    border-radius: 2rem;
-    
-  }
-  .contactlink{
-    text-decoration: none;
-    padding: 0.45rem;
+  
+  background-color: rgba(255, 255, 255, 0.842);
+}
+
+a:hover {
+  background-color: #e9ec20;
+}
+
+.title {
+  
+  text-align: center;
+  background-color: rgb(29, 29, 29);
+  color: white;
+  padding: 1rem;
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}
+
+.profilepic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  text-align: center;
+
+}
+
+.ow {
+  background-color: rgb(29, 29, 29);
+  color: white;
+  padding: 2rem;
+  border-radius: 2rem;
+  text-align: auto;
+}
+
+.w {
+  background-color: white;
+  color: black;
+  padding: 2rem;
+  border-radius: 2rem;
+  text-align: auto;
+}
+
+.link {
+  text-decoration: none;
+  padding: 0.5rem;
+  max-width: 140px;
+  display: block;
+  background-color: rgb(216, 216, 216);
+  color: black;
+  margin: 1rem auto;
+  border-radius: 2rem;
+
+}
+
+.contactlink {
+  text-decoration: none;
+  padding: 0.45rem;
   max-width: 140px;
   /* display:block; */
   background-color: rgb(216, 216, 216);
-  color:black;
+  color: black;
   margin: 1rem auto;
   border-radius: 2rem;
   border-top-color: blue;
-  
-   }
+
+}
